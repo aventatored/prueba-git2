@@ -1,2 +1,2 @@
 # prueba-git2
-hola como estas?
+hola como 
